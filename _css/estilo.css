@@ -1,0 +1,12 @@
+/* Estrutura do site */
+
+body {
+    background: #F4F2EC url(../_img/fundo.png) repeat-x;
+    font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+
+#container {
+    width: 1080px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
